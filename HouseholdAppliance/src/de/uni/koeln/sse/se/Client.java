@@ -65,7 +65,7 @@ public static void main(String[] args) {
 
 		costs = ((double) f.getWeight() / 20) * 5;
 
-		System.out.println("Total Cost for" + f.getName() + " is: " + costs);
+		System.out.println("Total for" + f.getName() + " is: " + costs);
 	}
 
 	public void calculateElectronicCosts(Electronic e) {
