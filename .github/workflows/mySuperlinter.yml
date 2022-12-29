@@ -9,6 +9,6 @@ jobs:
     steps:
       uses: github/super-linter@v3.17.0
       uses: github/super-linter@v3
-      env:
+  env:
         DEFAULT_BRANCH: main
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
