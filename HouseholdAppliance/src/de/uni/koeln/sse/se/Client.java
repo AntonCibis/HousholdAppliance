@@ -57,7 +57,7 @@ public static void main(String[] args) {
 
 			costs = ((double) g.lenght) * 0.7;
 		}
-		System.out.println("Totafor" + g.getName() + " is: " + costs);
+		System.out.println("Tofor" + g.getName() + " is: " + costs);
 	}
 
 	public void calculateFurnitureCosts(Furniture f) {
