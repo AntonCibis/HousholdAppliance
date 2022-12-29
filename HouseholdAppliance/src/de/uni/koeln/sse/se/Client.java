@@ -94,7 +94,7 @@ public static void main(String[] args) {
 	}
 
 	public void ElectronicPackingInstructions(Electronic c) {
-		System.out.println(" > should be coverd with Polythylene foam film and packed in a box with dimension: "
+		System.out.println(" > should be coverd with Polythylne foam film and packed in a box with dimension: "
 				+ c.getLenght() + 1 + "x" + c.getWidth() + 1 + "x" + c.getHeight() + 1);
 
 	}
